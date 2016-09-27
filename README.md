@@ -22,7 +22,8 @@ class CMAB (MAB.h + MAB.cpp):
     The class simulating the dueling bandit.   
     
 class CAlg (Alg.h + Alg.cpp):   
-   The abstract class for all dueling bandit algorithms.    
+   The base class for all dueling bandit algorithms.    
+   All other algorithms are inherited from this class.   
     
     
 **Main References**   
