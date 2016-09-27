@@ -5,9 +5,6 @@ Simulations for Dueling Bandit Algorithms.
 Used in our NIPS'16 paper:
 Huasen Wu and Xin Liu, “Double Thompson Sampling for Dueling Bandits”, Conference on Neural Information Processing Systems (NIPS), 2016.
 
-========================================================================
-                 DuelingBandit Project Overview
-========================================================================
 
 This file contains a summary of what you will find in each of the files that
 make up your DuelingBandit application.  
