@@ -1,0 +1,39 @@
+﻿Build started 3/11/2016 6:38:33 PM.
+     1>Project "C:\Users\huasenwu\Dropbox\LearnForOpt\Simulation\DuelingBandit\DuelingBandit\DuelingBandit.vcxproj" on node 2 (Rebuild target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _LIB /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yc"stdafx.h" /Fp"Debug\DuelingBandit.pch" /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt stdafx.cpp
+         stdafx.cpp
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _LIB /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"stdafx.h" /Fp"Debug\DuelingBandit.pch" /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt Alg.cpp Alg_DTS.cpp Alg_KLUCB.cpp Alg_RCS.cpp Alg_RUCB.cpp Alg_TS.cpp Alg_UCB.cpp BasicOpt.cpp BetaDist.cpp DuelingBandit.cpp MAB.cpp Results.cpp
+         Results.cpp
+         MAB.cpp
+         DuelingBandit.cpp
+         BetaDist.cpp
+         BasicOpt.cpp
+         Alg_UCB.cpp
+         Alg_TS.cpp
+         Alg_RUCB.cpp
+         Alg_RCS.cpp
+         Alg_KLUCB.cpp
+         Alg_DTS.cpp
+         Alg.cpp
+         Generating Code...
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\huasenwu\Dropbox\LearnForOpt\Simulation\DuelingBandit\Debug\DuelingBandit.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\huasenwu\Dropbox\LearnForOpt\Simulation\DuelingBandit\Debug\DuelingBandit.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\huasenwu\Dropbox\LearnForOpt\Simulation\DuelingBandit\Debug\DuelingBandit.lib" /MACHINE:X86 Debug\Alg.obj
+         Debug\Alg_DTS.obj
+         Debug\Alg_KLUCB.obj
+         Debug\Alg_RCS.obj
+         Debug\Alg_RUCB.obj
+         Debug\Alg_TS.obj
+         Debug\Alg_UCB.obj
+         Debug\BasicOpt.obj
+         Debug\BetaDist.obj
+         Debug\DuelingBandit.obj
+         Debug\MAB.obj
+         Debug\Results.obj
+         Debug\stdafx.obj
+         DuelingBandit.vcxproj -> C:\Users\huasenwu\Dropbox\LearnForOpt\Simulation\DuelingBandit\Debug\DuelingBandit.exe
+     1>Done Building Project "C:\Users\huasenwu\Dropbox\LearnForOpt\Simulation\DuelingBandit\DuelingBandit\DuelingBandit.vcxproj" (Rebuild target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:02.12
